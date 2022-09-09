@@ -2,11 +2,6 @@ import time
 import threading
 import concurrent.futures
 
-img_urls = [
-    "https://images.unsplash.com/photo-1662578108849-6f75d4f8c280",
-    "https://images.unsplash.com/photo-1657664049378-c8aadfe323f1",
-    "https://images.unsplash.com/photo-1662622194548-f50b20179287"
-]
 
 threads = []
 
